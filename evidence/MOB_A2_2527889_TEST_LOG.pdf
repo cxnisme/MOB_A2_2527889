@@ -1,93 +1,309 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
+/Title (CNPortfolio test log)
+/Author (NIWENIRINGIYE Christian)
+/Subject (Student\055reported Android device test results)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 7 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Type /Page
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+/MediaBox [ 0.0 0.0 595.28 841.89 ]
+/Parent 2 0 R
+/Contents 6 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
 >>
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/Length 7626
 >>
+stream
+BT /F1 17 Tf 0.12 0.37 0.29 rg 1 0 0 1 42.0 803.0 Tm (CNPortfolio: test log) Tj ET
+BT /F1 9 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 786.0 Tm (NIWENIRINGIYE Christian  |  25/27889  |  MOB_A2_2527889) Tj ET
+0.12 0.37 0.29 RG 1.2 w 42.0 777.0 m 553.0 777.0 l S
+BT /F1 8.6 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 759.0 Tm (Tester: NIWENIRINGIYE Christian) Tj ET
+BT /F1 8.6 Tf 0.12 0.15 0.14 rg 1 0 0 1 305.0 759.0 Tm (Device: Redmi P15) Tj ET
+BT /F1 8.6 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 743.0 Tm (Android: 13) Tj ET
+BT /F1 8.6 Tf 0.12 0.15 0.14 rg 1 0 0 1 305.0 743.0 Tm (Test date: 12 October 2026) Tj ET
+BT /F1 8.6 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 727.0 Tm (APK: MOB_A2_2527889.apk \(version 1.0.0\)) Tj ET
+BT /F1 8.1 Tf 0.12 0.15 0.14 rg 1 0 0 1 305.0 727.0 Tm (EAS build: 732423c5-a7b2-4444-ace2-802605c62315) Tj ET
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 711.0 Tm (Commit hash tested: 50bc5663acb6e8a74913239388a700651ed84b18) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 701.0 m 553.0 701.0 l S
+0.12 0.37 0.29 rg 42.0 658.0 511.0 29.0 re f
+BT /F1 8.2 Tf 1 1 1 rg 1 0 0 1 46.0 669.0 Tm (#) Tj ET
+BT /F1 8.2 Tf 1 1 1 rg 1 0 0 1 68.0 669.0 Tm (Test) Tj ET
+BT /F1 8.2 Tf 1 1 1 rg 1 0 0 1 189.0 669.0 Tm (Expected result) Tj ET
+BT /F1 8.2 Tf 1 1 1 rg 1 0 0 1 442.0 669.0 Tm (Result) Tj ET
+BT /F1 8.2 Tf 1 1 1 rg 1 0 0 1 492.0 669.0 Tm (Notes) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 603.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 658.0 m 64.0 603.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 658.0 m 185.0 603.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 658.0 m 438.0 603.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 658.0 m 488.0 603.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 641.0 Tm (1) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 643.0 Tm (Install APK without) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 633.0 Tm (Expo Go) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 643.0 Tm (APK installs and launches as a standalone app.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 643.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 548.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 603.0 m 64.0 548.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 603.0 m 185.0 548.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 603.0 m 438.0 548.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 603.0 m 488.0 548.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 586.0 Tm (2) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 588.0 Tm (Home: first sentence) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 588.0 Tm (Displays exactly: My name is NIWENIRINGIYE) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 578.0 Tm (Christian.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 588.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 493.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 548.0 m 64.0 493.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 548.0 m 185.0 493.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 548.0 m 438.0 493.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 548.0 m 488.0 493.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 531.0 Tm (3) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 533.0 Tm (Home: identity details) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 533.0 Tm (Avatar or photo, headline, introduction and) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 523.0 Tm (MOB-A2-7889 are visible.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 533.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 438.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 493.0 m 64.0 438.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 493.0 m 185.0 438.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 493.0 m 438.0 438.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 493.0 m 488.0 438.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 476.0 Tm (4) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 478.0 Tm (Skills: content) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 478.0 Tm (At least five skills and the education timeline) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 468.0 Tm (are shown.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 478.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 383.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 438.0 m 64.0 383.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 438.0 m 185.0 383.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 438.0 m 438.0 383.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 438.0 m 488.0 383.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 421.0 Tm (5) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 423.0 Tm (Projects: list and) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 413.0 Tm (detail) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 423.0 Tm (Each project opens its own details with problem,) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 413.0 Tm (contribution and technology.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 423.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 328.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 383.0 m 64.0 328.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 383.0 m 185.0 328.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 383.0 m 438.0 328.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 383.0 m 488.0 328.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 366.0 Tm (6) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 368.0 Tm (Back navigation) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 368.0 Tm (Back returns to project list; current tab and) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 358.0 Tm (state are kept.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 368.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 273.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 328.0 m 64.0 273.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 328.0 m 185.0 273.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 328.0 m 438.0 273.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 328.0 m 488.0 273.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 311.0 Tm (7) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 313.0 Tm (Editor: validation) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 313.0 Tm (Invalid empty, short, long and character inputs) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 303.0 Tm (show errors; Save is blocked.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 313.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 218.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 273.0 m 64.0 218.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 273.0 m 185.0 218.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 273.0 m 438.0 218.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 273.0 m 488.0 218.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 256.0 Tm (8) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 258.0 Tm (Editor: valid save) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 258.0 Tm (Valid input saves and a confirmation message) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 248.0 Tm (appears.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 258.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 163.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 218.0 m 64.0 163.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 218.0 m 185.0 163.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 218.0 m 438.0 163.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 218.0 m 488.0 163.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 201.0 Tm (9) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 203.0 Tm (Persistence) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 203.0 Tm (After full close and reopen, profile fields and) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 193.0 Tm (photo are restored.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 203.0 Tm (PASS) Tj ET
+BT /F1 7.5 Tf 0.35 0.38 0.36 rg 1 0 0 1 42.0 38.0 Tm (Test results recorded by the student after testing the installed APK on the listed device.) Tj ET
+BT /F1 7.5 Tf 0.35 0.38 0.36 rg 1 0 0 1 526.0 38.0 Tm (1 / 2) Tj ET
+
+endstream
 endobj
 7 0 obj
 <<
-/Author (NIWENIRINGIYE Christian) /CreationDate (D:20261012054030+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261012054030+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (CNPortfolio test log) /Trapped /False
+/Type /Page
+/Resources <<
+/Font <<
+/F1 8 0 R
+>>
+>>
+/MediaBox [ 0.0 0.0 595.28 841.89 ]
+/Parent 2 0 R
+/Contents 9 0 R
 >>
 endobj
 8 0 obj
 <<
-/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2671
+/Length 6706
 >>
 stream
-GatU5D/U@P')q<+1$F$_$X$X#q`:>`a%:\r>h9SUE'Su+Osl79mS_)2ajK'rI#$K9;3iVGM]`TfP\,Zr_g*Cs^qi6's#\C(5"snj-N_5?aT@8_nmV)>geFsNHU[4<qB87h2i?W@`a@YWUF5-o(&jN+l9^kKW6,8V.TNXP'Feq%*ec-],3@eg8lh1<MWZ'indQp1.5Sa!+4F2.hNTr+.V%\OUW1GtD=6B^hffV*:\PBln,IG6[nFi$P1(EM%rUm^NDM>>^\mfaca!AF)eafQ)*_l,3Lh;8StCaa,c^dSG"0DAOt_I/9C8ClVfoUR)[n&E>Gni=,ON\RZ3KfTV^_*TfTsW"9N.C`?mdk<@-I`!Q98^s<h;NC\RbK[U82MGjtM8^AHX(YjJ%<daq`81s$p6,YfTgu+/fGjbo6p.jlh5],:b*o*6/1`lU<N2#rt:Z[4ojkqeDIO39B1p/[W.7%SO/=U)BT]R[?5%0_+#&Ql(]VCo*>]6AYO6s,h0oN'SfQ/@DW)E=NQk+m`]YSBn%iF2/5bE,g1ib%Pn8W8Ge^j"Km3VAl,PXTm[]gn`($kRh+(i/^1;4<Pk]jS\PCKf?L0^4SEMX`ZY\1&Q?"]+nJg93BVOWM>j6;'^L#s+u6??&\oXO=5cZ&BCpi^aSgf(Gka5B:OR?X'GVSFWc<e"F?<L="S9"VSq0b:,VqFQc*U7:+)#?@GJuA7M^/&^QJ>_XECbT6G1G_p"A!srH6NqU;WM-,"G?P5+7j9S2_c[YS)W5O79IW&#iH5"AY\^\9;AD$l2'5P3)W&Eq]NQP&0c`O$^7":N%AjT@1@?CGs)$M3o!HoX'(n6iF9.dndVd#'AsQfB=6&UAT,QoFe@Z+s$lAQR,`.@<?L8,$+Pln1@1u)Xj^VY:I?0XI/,uXHt,LZdI]bQV4S4!Eg$(=kMEqZ)I2=h)$&Sd!Q=4c146_p=*d,_cWn<^T]r%fJ4c_be<(HpKT624V[lH13Na-/hu`0/2(-iZ_W$RWb_!1Nt_E/ke$ohS^,B"#=!Uh5u'6&l<7Rk[3_Ric9RFnoJH3[U]EXTFX^4[(&AsY/*QdK;<R$Nk,cMB596O<I)ic;r:-)=<.^2]PY*Z`-*i[(S.0J9QVu$dZVko[\D(4KYk>LI]@Zmi6*V8CH,6ECiQaD.K=D[PN6-K']\'h545WLs+,+''GT\GQ?m\h]fW0fE\NO'1,9im"AIH4`:hXo2_;I&.+U(hd;"BPoC0Deqpr-.D*;6]Dd!Jl>:-rko)UJ_UGGTj*qAotcV>,c[(;Wd$kVX\e/D*P`hc+>b;g3>lKQUk0b3Zpe!YF5B,SW&V=Dj?Bo`O"HfhcSsaetUT>d.k3/TZJ5s4nQ=K$ZiF0ko"p?=(E6.m6$0I\="^VX#g`em$X!$L(F\[=O#G):U_K5$"Wo40ETKOeYh<Q9];JpFS6p1>>?Vd0_1jC-Jk>QV8d.'jDaanKB9_V.uK``i1Gu]Z<Q#:AQBOS+BP!)q`T'cd1)"7X!MaUGfE#\Jlad67!aW<l7ntcUObh\TZtY[\OPZ4-NcGef,#IQ*i=!Z0l-baB2<dB3)[#YB6hf5>5!1>J3)j*AZ_YMS(r`0GRcLj\]Dq.oSSF)GEGJbI04g>;sIi!;`&5X^TfsWk+qo06Gttfdd^%OLlYr%CnK55jhc*j&(J)hc))HHRO8@2^HB<:=^_73fcbLD(5mi;5JM8=DZD"@mi(P9<aZ9FM1\4pQUSK8_6W5T!%oWTNfWXFNRP4p*m"`?`)7Pq]e4=ijLi`(p<%)=>D4_)p,T[s3dM4#*+ZsP$Hjj4f[URl\.h18Ze6MnpHt)R#0BfB"UrAB:-d(MH)#sATo`ZQEup\j]\i*PuSBtX1a2d=fBiIBVFuj@3LK((GdEJ<e;A%9ui.a1etn/D-;inM]9)q3Odhk.>%CIiZlWj2>_a_E'n$N/>:?j>sL89^P\ISNg1uAB(I0.WttiJ__+2;0"_J#3cf6fTqs=s-Ols.*aMO]Pk>G\]ZWCD2L[@?WAbGO6[bK>eZ'RKn0D.(IFGE!SP_G.E`"I>gJ,Z33>t"Q-Y?-AdpRZ!43)sG3)?'&Ha7F"jH*KY1t?tE[SH(Gkr^.m-G%X/+/Fq&dpl,;3K?MA[es*oXC9_'8r(N8Gg[Wi/[bC2<qk4T&#qHpJic=9Z*\$'j??jHO/n2!0'e'Q^ARP5bU#T@1\`0Vp,8V*hcOpaP@UBY&En1G0%:1_BDT4$4acDRc^SX\6L5UkFjihM35er`:Nu<*DCr<P]>UVM?2VIf"B]RCK$/LknPn?0R]#Tf8'K/G[]^V"]f5g3)#'$WWnMg?@Jd8mKY>"%iSj+^5i5UMbZo(j/_%hem.L&!!F:8Q56t"jebgGrXHs",>-a3podc:WkO5XucCe_*ceOjmm^b<L0$=A5qL\a.h<=&o3VI'+<IcciaV6fo/2H%@!'6k2%+N8]&Cefpk?bj0cD7h_P0nj`7c+.8W*[uRLHRLMh\eMtr]B0!pWOFG*tqrYG_i+qMW%T/ER[V:TTS64Oa9Su9@]u+L5hg?e4T\ZRMrS3dTBGCp&u*;;#Q'(UK6Z8N>+n=CM2-\GBQ03W:<05>%u@YTLQ'5p"FWCcA/2uE71jICeTPR-/A(!q7)a$Xp,h03rFhA$.WZ9ot3ns551jm<(ZVdO]JZnE:k%$n9aX~>endstream
-endobj
-10 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 532
->>
-stream
-Gat=gD,8#&&BE\s;dA<$,W^6g[rlU\^r.)M_nNp>@=U(O*DsSbf<,gb63q;6hYq`n]5,#&0H+W^P81keK>AB*3Fjp2)+qsk@$Cg:!P1hD6559.7&6MSWM26?L+6c%`Xo#7`%n#h,$@aW#8O((0glkp/QYab0^Atfd`B$NaD=0AVd'Xn[j;M_d'l^e.jAq'/H?6QGBFAJ!j]O+4k&'DW.>>$=eV=[8<aoF7ph`pdM,X6&A9ZVj+U;Pn.Zq_J,H3LCDcEB]l?4hO4QqA,tiJf2haF&NBs)`20P)F)bs/!+j)U0m?4fg>RpAIo&Mf;d.))02![ck^qAB;)\%'MKqba%24=*?k>eqH<g."X(T**_celn6?]?%i1.P*KKo.njToY56j"h(QVe6Tp;1%KC81?/8#\0!;N8`lY>k#;9Lb!feaXH,uC:'V6f!SGD'hE6H'5rLaM<9FNd>'J1YqEd)`H`u^lu=GEBFM'OiDa=R<L#P/%'L;'[8:5OYaApHd@cjomR8<S7s*as*>&,K(`=8E~>endstream
+BT /F1 17 Tf 0.12 0.37 0.29 rg 1 0 0 1 42.0 803.0 Tm (CNPortfolio: test log) Tj ET
+BT /F1 9 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 786.0 Tm (NIWENIRINGIYE Christian  |  25/27889  |  MOB_A2_2527889) Tj ET
+0.12 0.37 0.29 RG 1.2 w 42.0 777.0 m 553.0 777.0 l S
+BT /F1 9 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 759.0 Tm (Device: Redmi P15  |  Android 13  |  Test date: 12 October 2026) Tj ET
+BT /F1 8.5 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 743.0 Tm (APK version 1.0.0  |  EAS build: 732423c5-a7b2-4444-ace2-802605c62315) Tj ET
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 727.0 Tm (Commit hash tested: 50bc5663acb6e8a74913239388a700651ed84b18) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 717.0 m 553.0 717.0 l S
+0.12 0.37 0.29 rg 42.0 674.0 511.0 29.0 re f
+BT /F1 8.2 Tf 1 1 1 rg 1 0 0 1 46.0 685.0 Tm (#) Tj ET
+BT /F1 8.2 Tf 1 1 1 rg 1 0 0 1 68.0 685.0 Tm (Test) Tj ET
+BT /F1 8.2 Tf 1 1 1 rg 1 0 0 1 189.0 685.0 Tm (Expected result) Tj ET
+BT /F1 8.2 Tf 1 1 1 rg 1 0 0 1 442.0 685.0 Tm (Result) Tj ET
+BT /F1 8.2 Tf 1 1 1 rg 1 0 0 1 492.0 685.0 Tm (Notes) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 619.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 674.0 m 64.0 619.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 674.0 m 185.0 619.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 674.0 m 438.0 619.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 674.0 m 488.0 619.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 657.0 Tm (10) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 659.0 Tm (Photo: camera) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 659.0 Tm (After permission, taken photo previews and) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 649.0 Tm (persists after restart.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 659.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 564.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 619.0 m 64.0 564.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 619.0 m 185.0 564.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 619.0 m 438.0 564.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 619.0 m 488.0 564.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 602.0 Tm (11) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 604.0 Tm (Photo: permission) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 594.0 Tm (denied) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 604.0 Tm (Clear message; current photo unchanged; gallery) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 594.0 Tm (remains available.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 604.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 509.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 564.0 m 64.0 509.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 564.0 m 185.0 509.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 564.0 m 438.0 509.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 564.0 m 488.0 509.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 547.0 Tm (12) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 549.0 Tm (Photo: cancelled) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 549.0 Tm (Cancellation gives a message and leaves data) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 539.0 Tm (unchanged.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 549.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 454.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 509.0 m 64.0 454.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 509.0 m 185.0 454.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 509.0 m 438.0 454.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 509.0 m 488.0 454.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 492.0 Tm (13) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 494.0 Tm (Photo: replace and) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 484.0 Tm (remove) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 494.0 Tm (Replacement displays; Remove returns to the CN) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 484.0 Tm (avatar.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 494.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 399.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 454.0 m 64.0 399.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 454.0 m 185.0 399.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 454.0 m 438.0 399.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 454.0 m 488.0 399.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 437.0 Tm (14) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 439.0 Tm (Airplane Mode) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 439.0 Tm (Screens work offline; GitHub link gives a) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 429.0 Tm (friendly message.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 439.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 344.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 399.0 m 64.0 344.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 399.0 m 185.0 344.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 399.0 m 438.0 344.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 399.0 m 488.0 344.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 382.0 Tm (15) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 384.0 Tm (About screen) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 384.0 Tm (Shows app, student, registration, code, version) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 374.0 Tm (and data-use statement.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 384.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 289.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 344.0 m 64.0 289.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 344.0 m 185.0 289.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 344.0 m 438.0 289.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 344.0 m 488.0 289.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 327.0 Tm (16) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 329.0 Tm (Large system text) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 329.0 Tm (Largest font size causes no clipped or) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 319.0 Tm (overlapping Home, Edit or About text.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 329.0 Tm (PASS) Tj ET
+0.72 0.75 0.73 RG 0.5 w 42.0 234.0 511.0 55.0 re S
+0.72 0.75 0.73 RG 0.5 w 64.0 289.0 m 64.0 234.0 l S
+0.72 0.75 0.73 RG 0.5 w 185.0 289.0 m 185.0 234.0 l S
+0.72 0.75 0.73 RG 0.5 w 438.0 289.0 m 438.0 234.0 l S
+0.72 0.75 0.73 RG 0.5 w 488.0 289.0 m 488.0 234.0 l S
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 48.0 272.0 Tm (17) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 68.0 274.0 Tm (TalkBack) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 274.0 Tm (Buttons, inputs and errors are announced) Tj ET
+BT /F1 7.7 Tf 0.12 0.15 0.14 rg 1 0 0 1 189.0 264.0 Tm (sensibly.) Tj ET
+BT /F1 7.7 Tf 0.08 0.40 0.25 rg 1 0 0 1 442.0 274.0 Tm (PASS) Tj ET
+BT /F1 7.5 Tf 0.35 0.38 0.36 rg 1 0 0 1 42.0 38.0 Tm (Test results recorded by the student after testing the installed APK on the listed device.) Tj ET
+BT /F1 7.5 Tf 0.35 0.38 0.36 rg 1 0 0 1 526.0 38.0 Tm (2 / 2) Tj ET
+
+endstream
 endobj
 xref
-0 11
+0 10
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000728 00000 n 
-0000000796 00000 n 
-0000001093 00000 n 
-0000001158 00000 n 
-0000003920 00000 n 
+0000000015 00000 n 
+0000000177 00000 n 
+0000000242 00000 n 
+0000000291 00000 n 
+0000000429 00000 n 
+0000000526 00000 n 
+0000008204 00000 n 
+0000008342 00000 n 
+0000008439 00000 n 
 trailer
 <<
-/ID 
-[<065de094062e818a407840fff1a97c10><065de094062e818a407840fff1a97c10>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 11
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-4543
+15197
 %%EOF

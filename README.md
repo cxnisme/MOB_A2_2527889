@@ -57,16 +57,17 @@ The `preview` profile in `eas.json` produces an installable `.apk`. Download it,
 
 ## Tested device and Android version
 
-> **Not yet device-tested.** Record the device model, Android version and Airplane Mode result here after installing and testing the APK.
+The installed APK was tested on a Redmi P15 running Android 13 on 12 October 2026. All 17 checks in `evidence/MOB_A2_2527889_TEST_LOG.pdf` were reported as passing.
 
 ## Final commit hash
 
-The current repository checkout is on commit `5cae1f5c8474a5c0f9a60486cdee23b456e72c12`. The Android APK was generated from the earlier source commit `b26cf9fd5a676a3711a1b72892f8dac2d34b40bb` used for the latest build.
+The final application source included in the tested APK is commit `50bc5663acb6e8a74913239388a700651ed84b18`. Later submission commits update documentation and evidence only; this is the application commit tested on the device.
 
 ## Release
 
-- GitHub release (v1.0.0): not published yet. The assignment's phone-test record and demo video still need to be completed before the final release.
-- Installable preview APK: [download from the EAS build](https://expo.dev/artifacts/eas/oKCLX0Per4-VXtlWTBWHqpBSqnVTT12l5iXvbgPTjoY.apk). The build was created from commit `b26cf9fd5a676a3711a1b72892f8dac2d34b40bb` and is listed at [EAS build details](https://expo.dev/accounts/ckristian/projects/cnportfolio/builds/3ebabeca-4cd4-4dcf-aee4-a6af0baab82b).
+- Installable preview APK: [download from the EAS build](https://expo.dev/artifacts/eas/pK6ZLm7RlIDf21ySqxV-YG6GsaAouXP_JOvT06FjEzg.apk). [Build details](https://expo.dev/accounts/ckristian/projects/cnportfolio/builds/732423c5-a7b2-4444-ace2-802605c62315); built from the tested application commit above.
+- Demonstration video: `MOB_A2_2527889_DEMO.mp4`.
+- GitHub release (v1.0.0): not published.
 
 ## Known limitations
 
@@ -74,7 +75,7 @@ The current repository checkout is on commit `5cae1f5c8474a5c0f9a60486cdee23b456
 - Data lives only on the phone. Uninstalling the app or clearing its storage deletes it, and there is no backup or sync.
 - The profile photo is copied into app storage when it is chosen. If the file is removed outside the app, the avatar with initials is shown again.
 - Skills, projects and the education timeline are fixed in the app code (`src/data/portfolio.ts`). Only the headline, biography, primary skill, availability and photo are editable in the app.
-- Keyboard behaviour on the Profile screen was written for Android edge-to-edge layout and must be checked on the real device.
+- Keyboard behaviour on the Profile screen was checked on the listed Redmi P15 device.
 - The GitHub link needs internet.
 
 ## Acknowledgements
