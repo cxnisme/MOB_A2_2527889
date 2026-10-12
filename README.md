@@ -66,7 +66,7 @@ Run `git rev-parse HEAD` in the submitted checkout to get its final commit hash.
 ## Release
 
 - GitHub release (v1.0.0): not published yet. The assignment's phone-test record and demo video still need to be completed before the final release.
-- Installable preview APK: [download from the EAS build](https://expo.dev/artifacts/eas/F5lZn9wD6cYtNg-ol8RNOn2Sj7XhbDk0bznWjLh8i_w.apk). The same build is listed at [EAS build details](https://expo.dev/accounts/ckristian/projects/cnportfolio/builds/6f497514-527d-4805-ae55-8b9c3d8b5bf9).
+- Installable preview APK: [download from the EAS build](https://expo.dev/artifacts/eas/HZkQpJM1BBDtT1euyRfEBzMgeM9aeVbrs9Vd9aHbbpo.apk). The build was created from commit `277b2641bbbafccb76d436670e0dc8e776655a5e` and is listed at [EAS build details](https://expo.dev/accounts/ckristian/projects/cnportfolio/builds/4f1380ff-7915-42e9-aad5-b61832aad6ef).
 
 ## Known limitations
 
