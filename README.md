@@ -61,7 +61,7 @@ The `preview` profile in `eas.json` produces an installable `.apk`. Download it,
 
 ## Final commit hash
 
-The current repository checkout is on commit `a26af258d78f3b4c41a4fd3326a758d5b8bcfd0f`. The Android APK was generated from the earlier source commit `b26cf9fd5a676a3711a1b72892f8dac2d34b40bb` used for the latest build.
+The current repository checkout is on commit `5df0a5baa66e67e53d47520fa4203018f0ad8e09`. The Android APK was generated from the earlier source commit `b26cf9fd5a676a3711a1b72892f8dac2d34b40bb` used for the latest build.
 
 ## Release
 
