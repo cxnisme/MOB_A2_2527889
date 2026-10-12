@@ -67,7 +67,7 @@ The final application source included in the tested APK is commit `50bc5663acb6e
 
 - Installable preview APK: [download from the EAS build](https://expo.dev/artifacts/eas/pK6ZLm7RlIDf21ySqxV-YG6GsaAouXP_JOvT06FjEzg.apk). [Build details](https://expo.dev/accounts/ckristian/projects/cnportfolio/builds/732423c5-a7b2-4444-ace2-802605c62315); built from the tested application commit above.
 - Demonstration video: `MOB_A2_2527889_DEMO.mp4`.
-- GitHub release (v1.0.0): not published.
+- GitHub release (v1.0.0): [CNPortfolio v1.0.0](https://github.com/cxnisme/MOB_A2_2527889/releases/tag/v1.0.0) with the APK and demo video attached.
 
 ## Known limitations
 
