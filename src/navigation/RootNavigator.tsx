@@ -55,7 +55,7 @@ function Tabs() {
           position: 'absolute',
           left: 16,
           right: 16,
-          bottom: 16 + insets.bottom,
+          bottom: insets.bottom,
           height: 66,
           borderRadius: 26,
           paddingHorizontal: 4,
