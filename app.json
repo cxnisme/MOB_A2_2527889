@@ -29,7 +29,8 @@
         "expo-image-picker",
         {
           "cameraPermission": "CNPortfolio uses the camera only to take your profile photo. The photo stays on this phone.",
-          "photosPermission": "CNPortfolio uses your photos only to choose a profile picture. The picture stays on this phone."
+          "photosPermission": "CNPortfolio uses your photos only to choose a profile picture. The picture stays on this phone.",
+          "microphonePermission": false
         }
       ]
     ],
