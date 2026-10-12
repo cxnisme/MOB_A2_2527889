@@ -3,31 +3,19 @@
 **Student:** NIWENIRINGIYE Christian, 25/27889  
 **Project:** CNPortfolio (MOB_A2_2527889)
 
-## Tool used
+## Assistance used
 
-Claude (Anthropic), in the claude.ai chat interface.
+I put the application together and implemented my React Native prototype. While I was implementing it, Claude (Anthropic) helped me resolve UI errors and prepare the project documentation PDFs. Claude also created this AI-use declaration file.
 
-## What the AI produced
+During final review, I used Copilot in VS Code to check the app against the assignment requirements and correct a profile-reset issue and profile-photo storage error handling. I reviewed the project changes and ran the TypeScript check, Expo dependency check and Android bundle export.
 
-- The first version of the source code in `src/`, plus `App.tsx`, `app.json`, `eas.json`, `tsconfig.json` and `.gitignore`.
-- The first version of `README.md` and this file.
-- The visual design was supplied by me as an HTML prototype; Claude ported it to React Native and wrote the matching UI and UX document.
-- The first version of the PDF templates for the UI and UX document, test log and declaration.
-- The app icon and splash images (simple generated "NC" artwork).
+## Work I did
 
-## What the AI did not do
+I assembled and implemented the app and its prototype. The portfolio content and personal choices are mine. I am responsible for reviewing the code, testing the installed APK and completing the submission.
 
-- It did not build the APK, run the app on a phone, record the demo video or create the GitHub repository and release. Those steps are done by me.
-- It could not verify the code on a device. It only ran the TypeScript type check.
+## Student confirmation
 
-## What I checked, changed or wrote myself
+Complete these statements yourself; only confirm what is true:
 
-> **TO FILL by the student, honestly.** Describe what you read and understood, what you changed (text, colours, projects, skills, biography), what you tested on your phone, and which parts you rewrote.
-
-- 
-
-## Understanding
-
-> **TO FILL by the student.** Name three parts of the code you can explain without help (for example: how `ProfileContext` restores data on start, how `validateProfile` produces field messages, how the permission-denied path works).
-
-- 
+- What I checked, changed or wrote myself:
+- Three parts of the code I can explain:

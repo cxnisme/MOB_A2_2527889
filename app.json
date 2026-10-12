@@ -20,7 +20,8 @@
         "backgroundColor": "#1F5F4A"
       },
       "permissions": [
-        "android.permission.CAMERA"
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
       ]
     },
     "plugins": [
@@ -31,6 +32,12 @@
           "photosPermission": "CNPortfolio uses your photos only to choose a profile picture. The picture stays on this phone."
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2748e702-3f6a-4619-8140-de3d633e5706"
+      }
+    },
+    "owner": "ckristian"
   }
 }
