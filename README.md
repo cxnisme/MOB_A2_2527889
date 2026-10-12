@@ -61,7 +61,7 @@ The installed APK was tested on a Redmi P15 running Android 13 on 12 October 202
 
 ## Final commit hash
 
-The final application source included in the tested APK is commit `50bc5663acb6e8a74913239388a700651ed84b18`. Later submission commits update documentation and evidence only; this is the application commit tested on the device.
+The final application source included in the tested APK is commit `2e300b3` in the rewritten history. EAS Build recorded the equivalent pre-rewrite commit as `50bc5663acb6e8a74913239388a700651ed84b18`; the APK contents are unchanged by removing commit-message co-author trailers. Later submission commits update documentation and evidence only.
 
 ## Release
 
