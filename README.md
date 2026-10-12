@@ -61,12 +61,12 @@ The `preview` profile in `eas.json` produces an installable `.apk`. Download it,
 
 ## Final commit hash
 
-Get the current submission commit hash with `git rev-parse HEAD`.
+Run `git rev-parse HEAD` in the submitted checkout to get its final commit hash.
 
 ## Release
 
-- Release (v1.0.0): pending device testing and final release upload.
-- APK: pending the EAS preview build.
+- GitHub release (v1.0.0): not published yet. The assignment's phone-test record and demo video still need to be completed before the final release.
+- Installable preview APK: [download from the EAS build](https://expo.dev/artifacts/eas/F5lZn9wD6cYtNg-ol8RNOn2Sj7XhbDk0bznWjLh8i_w.apk). The same build is listed at [EAS build details](https://expo.dev/accounts/ckristian/projects/cnportfolio/builds/6f497514-527d-4805-ae55-8b9c3d8b5bf9).
 
 ## Known limitations
 
