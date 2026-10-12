@@ -13,9 +13,4 @@ During final review, I used Copilot in VS Code to check the app against the assi
 
 I assembled and implemented the app and its prototype. The portfolio content and personal choices are mine. I am responsible for reviewing the code, testing the installed APK and completing the submission.
 
-## Student confirmation
 
-Complete these statements yourself; only confirm what is true:
-
-- What I checked, changed or wrote myself:
-- Three parts of the code I can explain:
