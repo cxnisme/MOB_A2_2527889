@@ -59,9 +59,9 @@ The `preview` profile in `eas.json` produces an installable `.apk`. Download it,
 
 The installed APK was tested on a Redmi P15 running Android 13 on 12 October 2026. All 17 checks in `evidence/MOB_A2_2527889_TEST_LOG.pdf` were reported as passing.
 
-## Final commit hash
+## Tested APK source commit
 
-The final public repository commit for the submitted build is `9cd3467653d8b5852e3dc69c77326031fb585750`.
+The tested APK corresponds to source commit `2e300b391fa283712211baa21cd6451866583725`. EAS Build recorded the equivalent pre-rewrite commit as `50bc5663acb6e8a74913239388a700651ed84b18`; both commits have identical project trees. Later commits update submission documentation and evidence.
 
 ## Release
 

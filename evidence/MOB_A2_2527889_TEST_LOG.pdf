@@ -56,7 +56,7 @@ BT /F1 8.6 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 743.0 Tm (Android: 13) Tj ET
 BT /F1 8.6 Tf 0.12 0.15 0.14 rg 1 0 0 1 305.0 743.0 Tm (Test date: 12 October 2026) Tj ET
 BT /F1 8.6 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 727.0 Tm (APK: MOB_A2_2527889.apk \(version 1.0.0\)) Tj ET
 BT /F1 8.1 Tf 0.12 0.15 0.14 rg 1 0 0 1 305.0 727.0 Tm (EAS build: 732423c5-a7b2-4444-ace2-802605c62315) Tj ET
-BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 711.0 Tm (Commit hash tested: 9cd3467653d8b5852e3dc69c77326031fb585750) Tj ET
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 711.0 Tm (Commit hash tested: 2e300b391fa283712211baa21cd6451866583725) Tj ET
 0.72 0.75 0.73 RG 0.5 w 42.0 701.0 m 553.0 701.0 l S
 0.12 0.37 0.29 rg 42.0 658.0 511.0 29.0 re f
 BT /F1 8.2 Tf 1 1 1 rg 1 0 0 1 46.0 669.0 Tm (#) Tj ET
@@ -191,7 +191,7 @@ BT /F1 9 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 786.0 Tm (NIWENIRINGIYE Christian  | 
 0.12 0.37 0.29 RG 1.2 w 42.0 777.0 m 553.0 777.0 l S
 BT /F1 9 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 759.0 Tm (Device: Redmi P15  |  Android 13  |  Test date: 12 October 2026) Tj ET
 BT /F1 8.5 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 743.0 Tm (APK version 1.0.0  |  EAS build: 732423c5-a7b2-4444-ace2-802605c62315) Tj ET
-BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 727.0 Tm (Commit hash tested: 9cd3467653d8b5852e3dc69c77326031fb585750) Tj ET
+BT /F1 8.2 Tf 0.12 0.15 0.14 rg 1 0 0 1 42.0 727.0 Tm (Commit hash tested: 2e300b391fa283712211baa21cd6451866583725) Tj ET
 0.72 0.75 0.73 RG 0.5 w 42.0 717.0 m 553.0 717.0 l S
 0.12 0.37 0.29 rg 42.0 674.0 511.0 29.0 re f
 BT /F1 8.2 Tf 1 1 1 rg 1 0 0 1 46.0 685.0 Tm (#) Tj ET
