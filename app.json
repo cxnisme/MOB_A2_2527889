@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "CNPortfolio",
+    "slug": "cnportfolio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "backgroundColor": "#F3F1EC",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F3F1EC"
+    },
+    "android": {
+      "package": "rw.ac.ines.ug2527889.cnportfolio",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1F5F4A"
+      },
+      "permissions": [
+        "android.permission.CAMERA"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "CNPortfolio uses the camera only to take your profile photo. The photo stays on this phone.",
+          "photosPermission": "CNPortfolio uses your photos only to choose a profile picture. The picture stays on this phone."
+        }
+      ]
+    ]
+  }
+}
